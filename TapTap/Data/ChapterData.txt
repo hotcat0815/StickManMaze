@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "name_zh": "章节1",
+    "name_zht": "章節1",
+    "name_en": "Chapter1",
+    "name_jp": "章1",
+    "name_ko": "장1"
+  },
+  {
+    "id": "002",
+    "name_zh": "章节2",
+    "name_zht": "章節2",
+    "name_en": "Chapter2",
+    "name_jp": "章2",
+    "name_ko": "장2"
+  },
+  {
+    "id": "003",
+    "name_zh": "章节3",
+    "name_zht": "章節3",
+    "name_en": "Chapter3",
+    "name_jp": "章3",
+    "name_ko": "장3"
+  }
+]

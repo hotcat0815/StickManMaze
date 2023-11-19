@@ -1,0 +1,122 @@
+[
+  {
+    "id": "101",
+    "classID": "1",
+    "mainIndex": 0,
+    "name_zh": "机甲",
+    "name_zht": "機甲",
+    "name_en": "Mecha",
+    "name_jp": "メカ",
+    "name_ko": "메카"
+  },
+  {
+    "id": "102",
+    "classID": "1",
+    "mainIndex": 4,
+    "name_zh": "战斗天使",
+    "name_zht": "戰鬥天使",
+    "name_en": "Battle Angel",
+    "name_jp": "バトルエンジェル",
+    "name_ko": "전투 천사"
+  },
+  {
+    "id": "103",
+    "classID": "1",
+    "mainIndex": 1,
+    "name_zh": "机车",
+    "name_zht": "機車",
+    "name_en": "Motorcycle",
+    "name_jp": "オートバイ",
+    "name_ko": "오토바이"
+  },
+  {
+    "id": "201",
+    "classID": "2",
+    "mainIndex": 0,
+    "name_zh": "街头",
+    "name_zht": "街頭",
+    "name_en": "Street",
+    "name_jp": "ストリート",
+    "name_ko": "거리"
+  },
+  {
+    "id": "202",
+    "classID": "2",
+    "mainIndex": 3,
+    "name_zh": "近照",
+    "name_zht": "近照",
+    "name_en": "Close-up",
+    "name_jp": "クローズアップ",
+    "name_ko": "근접 촬영"
+  },
+  {
+    "id": "203",
+    "classID": "2",
+    "mainIndex": 0,
+    "name_zh": "古风",
+    "name_zht": "古風",
+    "name_en": "Ancient Style",
+    "name_jp": "古風",
+    "name_ko": "고대 스타일"
+  },
+  {
+    "id": "204",
+    "classID": "2",
+    "mainIndex": 9,
+    "name_zh": "古风Ⅱ",
+    "name_zht": "古風Ⅱ",
+    "name_en": "Ancient Style II",
+    "name_jp": "古風Ⅱ",
+    "name_ko": "고대 스타일Ⅱ"
+  },
+  {
+    "id": "205",
+    "classID": "2",
+    "mainIndex": 10,
+    "name_zh": "魔幻",
+    "name_zht": "魔幻",
+    "name_en": "Fantasy",
+    "name_jp": "ファンタジー",
+    "name_ko": "판타지"
+  },
+  {
+    "id": "301",
+    "classID": "3",
+    "mainIndex": 5,
+    "name_zh": "冒险",
+    "name_zht": "冒險",
+    "name_en": "Adventure",
+    "name_jp": "アドベンチャー",
+    "name_ko": "모험"
+  },
+  {
+    "id": "302",
+    "classID": "3",
+    "mainIndex": 2,
+    "name_zh": "科幻",
+    "name_zht": "科幻",
+    "name_en": "Science Fiction",
+    "name_jp": "サイエンスフィクション",
+    "name_ko": "공상 과학"
+  },
+  {
+    "id": "303",
+    "classID": "3",
+    "mainIndex": 2,
+    "name_zh": "职业",
+    "name_zht": "職業",
+    "name_en": "Profession",
+    "name_jp": "職業",
+    "name_ko": "직업"
+  },
+  {
+    "id": "304",
+    "classID": "3",
+    "mainIndex": 2,
+    "name_zh": "女友",
+    "name_zht": "女友",
+    "name_en": "Girlfriend",
+    "name_jp": "ガールフレンド",
+    "name_ko": "여자 친구"
+  }
+]

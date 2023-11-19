@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "mainIndex": 1,
+    "name_zh": "二次元",
+    "name_zht": "二次元",
+    "name_en": "Two-dimensional",
+    "name_jp": "二次元",
+    "name_ko": "이차원"
+  },
+  {
+    "id": "2",
+    "mainIndex": 0,
+    "name_zh": "三次元",
+    "name_zht": "三次元",
+    "name_en": "Three-dimensional",
+    "name_jp": "三次元",
+    "name_ko": "삼차원"
+  },
+  {
+    "id": "3",
+    "mainIndex": 0,
+    "name_zh": "2.5次元",
+    "name_zht": "2.5次元",
+    "name_en": "Two-and-a-half-dimensional",
+    "name_jp": "二・五次元",
+    "name_ko": "이반다이면"
+  }
+]
